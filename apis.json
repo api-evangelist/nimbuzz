@@ -1,0 +1,65 @@
+{
+    "name": "nimbuzz",
+    "description": "Get the latest, headlines, breaking, regional news fast. General News, World News, Technology News, Business News, Sports News, Entertainment News, Health News, Fashion News, Politics News, Education News, New and Knowledgeable Article.-English--United...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1099-nimbuzz.jpg",
+    "tags": [
+        "api provider",
+        "chats",
+        "have api",
+        "netherlands",
+        "networks",
+        "telecommunications",
+        "texts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nimbuzz\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "nimbuzz",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1099-nimbuzz.jpg",
+            "humanURL": "http:\/\/developers.nimbuzz.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nimbuzz-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.nimbuzz.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/NimbuzzBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/nimbuzz"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/nimbuzz"
+        },
+        {
+            "type": "Email",
+            "url": "support@nimbuzz.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/nimbuzz"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developers.nimbuzz.com\/"
+        }
+    ]
+}
